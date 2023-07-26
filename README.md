@@ -1,7 +1,6 @@
 <div align="center>  
   
   file:///home/ingo/Downloads/logo_faircar.png
-
     
 </div>
 
