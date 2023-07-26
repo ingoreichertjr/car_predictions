@@ -51,6 +51,6 @@ O sistema gera o preço do carro de maneira automática, a partir de suas caract
 
 <h2>Instalar e Executar a Aplicação</h2>
 
-- `Passo 1`: Fazer o download da aplicação através deste link (https://github.com/ingoreichertjr/car_predictions/blob/main/Modelo_Preditivo.ipynb)[aplicação_faircar];
+- `Passo 1`: Fazer o download da aplicação através deste link [aplicação_faircar](https://github.com/ingoreichertjr/car_predictions/blob/main/Modelo_Preditivo.ipynb);
 - `Passo 2`: Abrr a aplicação com Jupyter Notebook, Google Colab ou aplicação similar;
 - `Passo 3`: Ir no menu superior na opção "Kernel", e clicar em "Restart & Run All" ou ir executando o projeto em etapas através do comando "shift+enter"; 
