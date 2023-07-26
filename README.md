@@ -25,15 +25,17 @@ O sistema gera o preço do carro de maneira automática, a partir de suas caract
 
 
 <h2>Funcionalidades</h2>
-* Consultar o preço mais justo caso você queira vender o seu carro;
-* Consultar o preço mais justo caso você queira comprar um carro usado;
-* Comparar o preço do seu carro com o preço de outros carros;
+- Consultar o preço mais justo caso você queira vender o seu carro;
+- Consultar o preço mais justo caso você queira comprar um carro usado;
+- Comparar o preço do seu carro com o preço de outros carros;
 
 
 <h2>Ferramenta Utilizadas</h2>
 
-<img align="center" alt="Ingo-Python" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-<img align="center" alt="Ingo-Postgres" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg">
-<img align="center" alt="Ingo-Postgres" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg">
+![download](https://github.com/ingoreichertjr/car_predictions/assets/80931224/63bfa744-211e-460d-a0fe-a7d10333edf5)
+![download](https://github.com/ingoreichertjr/car_predictions/assets/80931224/a0ac0ad7-6b06-4ecb-8781-64b14eb95a14)
+![images](https://github.com/ingoreichertjr/car_predictions/assets/80931224/2afb9ba5-90ad-4d42-8caa-bb51b7de31a6)
+![download](https://github.com/ingoreichertjr/car_predictions/assets/80931224/21f9a4a6-290c-49f6-b3b5-9ab20227ade7)
+
 
 
