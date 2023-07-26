@@ -13,11 +13,7 @@ O FairCar é uma aplicação criada com o objetivo de auxiliar tanto compradores
 &nbsp;
 
 
-O sistema gera o preço do carro de maneira automática, a partir de suas características, tais como: ano de fabricação, hodômetro, cor, motor, combustível, etc.
-
-
-&nbsp;
-
+O sistema gera o preço do carro de maneira automática, a partir de suas características, tais como: ano de fabricação, hodômetro, cor, motor, combustível, etc
 
 <h2>Funcionalidades do Projeto</h2>
 
