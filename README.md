@@ -31,6 +31,9 @@ O sistema gera o preço do carro de maneira automática, a partir de suas caract
 - `Funcionalidade 3`: Comparar o preço do seu carro com o preço de outros carros;
 
 
+&nbsp;
+
+
 <h2>Ferramenta Utilizadas</h2>
 
 ![download](https://github.com/ingoreichertjr/car_predictions/assets/80931224/63bfa744-211e-460d-a0fe-a7d10333edf5)
