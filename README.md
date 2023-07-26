@@ -1,7 +1,7 @@
 <div align="center>  
   
-  file:///home/ingo/Downloads/logo_faircar.png
-    
+  ![logo_faircar](https://github.com/ingoreichertjr/car_predictions/assets/80931224/92e76b57-19b5-4f15-89de-2ec4fc70fcfe)
+
 </div>
 
 
