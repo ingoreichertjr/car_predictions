@@ -36,6 +36,7 @@ O sistema gera o preço do carro de maneira automática, a partir de suas caract
 ![download](https://github.com/ingoreichertjr/car_predictions/assets/80931224/a0ac0ad7-6b06-4ecb-8781-64b14eb95a14)
 ![images](https://github.com/ingoreichertjr/car_predictions/assets/80931224/2afb9ba5-90ad-4d42-8caa-bb51b7de31a6)
 ![download](https://github.com/ingoreichertjr/car_predictions/assets/80931224/21f9a4a6-290c-49f6-b3b5-9ab20227ade7)
+![download](https://github.com/ingoreichertjr/car_predictions/assets/80931224/0344e332-ad4d-46a0-b9c1-f1d7f3e00980)
 
 
 
