@@ -27,7 +27,7 @@ O sistema gera o preço do carro de maneira automática, a partir de suas caract
 &nbsp;
 
 
-<h2>Funcionalidades do projeto</h2>
+<h2>Funcionalidades do Projeto</h2>
 
 - `Funcionalidade 1`: Consultar o preço mais justo caso você queira vender o seu carro;
 - `Funcionalidade 2`: Consultar o preço mais justo caso você queira comprar um carro usado;
