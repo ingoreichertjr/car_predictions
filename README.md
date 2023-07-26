@@ -1,9 +1,4 @@
-<div align="center>  
-  
-  ![logo_faircar](https://github.com/ingoreichertjr/car_predictions/assets/80931224/92e76b57-19b5-4f15-89de-2ec4fc70fcfe)
-
-</div>
-
+<div align="center>![logo_faircar](https://github.com/ingoreichertjr/car_predictions/assets/80931224/92e76b57-19b5-4f15-89de-2ec4fc70fcfe)</div>
 
 <h1 align="center"> Fair Car </h1>
 
