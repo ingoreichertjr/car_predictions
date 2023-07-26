@@ -1,5 +1,5 @@
 <p align="center>
-  ![8d15ddcd1eeb42d48f2c2a2e0c5a67dd](https://github.com/ingoreichertjr/car_predictions/assets/80931224/d084defc-15da-441b-a962-51b12be3d47f)
+![8d15ddcd1eeb42d48f2c2a2e0c5a67dd](https://github.com/ingoreichertjr/car_predictions/assets/80931224/d084defc-15da-441b-a962-51b12be3d47f)
 </p>
 
 <h1 align="center"> Fair Car </h1>
