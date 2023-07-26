@@ -24,7 +24,7 @@ O sistema gera o preço do carro de maneira automática, a partir de suas caract
 ![WhatsApp-Image-2021-04-18-at-14 45 40-1-e1618750762128](https://github.com/ingoreichertjr/car_predictions/assets/80931224/f965ac99-6d4f-4bd9-a2fe-7cf1f0606cdb)
 
 
-:hammer: <h2>Funcionalidades do projeto</h2>
+<h2>Funcionalidades do projeto</h2>
 
 - `Funcionalidade 1`: Consultar o preço mais justo caso você queira vender o seu carro;
 - `Funcionalidade 2`: Consultar o preço mais justo caso você queira comprar um carro usado;
