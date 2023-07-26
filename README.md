@@ -1,4 +1,6 @@
-# <h1 align="center"> Fair Car </h1>
+#![8d15ddcd1eeb42d48f2c2a2e0c5a67dd](https://github.com/ingoreichertjr/car_predictions/assets/80931224/19eba9b5-dc5c-410f-ac68-bd7c918e7e02)
+ <h1 align="center"> Fair Car </h1>![8d15ddcd1eeb42d48f2c2a2e0c5a67dd](https://github.com/ingoreichertjr/car_predictions/assets/80931224/1e5210e5-5539-4ac9-93e7-4aa90a3ccfed)
+
 ![autohandel-3100637_1280](https://github.com/ingoreichertjr/car_predictions/assets/80931224/4551ecd2-02be-401a-9d28-360f67f51027)
 
 <p align="center">
